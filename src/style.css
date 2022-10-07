@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: blueviolet;
+}
+.btn-header {
+  margin: 100px 600px 0 200px;
+}
